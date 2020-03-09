@@ -1,0 +1,14 @@
+ @font-face {
+   font-family: 'myMoonstone';
+   src:  url('./Moonstone-Extras.woff') format('woff'),
+         url('./Moonstone-Regular.woff') format('woff');
+   font-weight: 600;
+   font-style: normal;
+ }
+    
+
+.hello {
+    color: red;
+    font-family: 'myMoonstone';
+    /* background: url('./icon.jpg'); */
+}
